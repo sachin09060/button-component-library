@@ -1,10 +1,12 @@
 {
   "name": "@sachin09060/button-component-library",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/sachin09060/button-component-library"
-  },
   "version": "0.1.0",
-  "private": true,  
+  "description": "A simple button component library for React.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Sachin",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
