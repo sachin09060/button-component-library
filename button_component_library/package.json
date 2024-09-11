@@ -1,6 +1,6 @@
 {
   "name": "@sachin09060/button-component-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple button component library for React.",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

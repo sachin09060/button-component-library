@@ -6,7 +6,7 @@ interface ButtonProps {
 const Button = (props: ButtonProps) => {
   return (
     <div>
-        <button style={{backgroundColor:"#4F75FF", color:"#fff" , padding: "15px 32px" , fontSize: "16px",}}>{props.label}</button>
+        <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>{props.label}</button>
     </div>
   )
 }
